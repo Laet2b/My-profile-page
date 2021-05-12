@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-  color: #929292;
+  color: #7ECE90;
   font-family: 'Quicksand', sans-serif;
   font-size: 40px;
 }
 
 h2 {
-  color: #6B72E1;
+  color: #4f6a7d;
   font-family: 'Quicksand', sans-serif;
   font-size: 24px;
 }
@@ -44,12 +44,13 @@ p {
 
 .container {
   background-color: #F7F9FC;
-  width: 500px;
+  width: 600px;
   margin: 0 auto;
 }
 
 .img-circle {
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .list-inline > li {
